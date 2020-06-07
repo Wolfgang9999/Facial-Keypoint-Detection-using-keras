@@ -13,5 +13,5 @@ You are free to use the code for academic and non-commercial purposes.
 
 5)You can download the data from here : https://www.kaggle.com/parthgupta28/facial-keypoints-detection.
 
-
+Link to trained model : https://drive.google.com/file/d/1oe2jYU_R8UH0MVV4Q2inNqvkg0GnlHXC/view?usp=sharing
 
